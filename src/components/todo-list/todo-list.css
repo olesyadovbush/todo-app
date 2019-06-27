@@ -1,0 +1,7 @@
+.todo-list .list-group-item {
+    padding: .25rem .75rem;
+  }
+
+.active-item {
+  border-left: 3px solid #FF2F5A;
+}
